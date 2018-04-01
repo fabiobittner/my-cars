@@ -7,4 +7,8 @@ Ich erstelle sie auf [3D Tuning](http://www.3dtuning.com).
 Onlineversion
 -------------
 
-https://fabio05.gitlab.io/my-cars/
+GitLab:
+    https://fabio05.gitlab.io/my-cars/
+
+GitHub:
+    https://fabiobittner.github.io/my-cars/
